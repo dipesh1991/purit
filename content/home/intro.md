@@ -19,4 +19,5 @@ Purit produces skin friendly hand wash products at affordable prices. It comes w
 * NO EDTA
 * NO Petrolatum
 * NO Mineral oils
-* NO Animal derived products {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+* NO Animal derived products
+{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
