@@ -1,5 +1,5 @@
 ---
-avatar_filename: logo_purit.png
+avatar_filename: artboard-1-0.25x.png
 bio: ""
 social:
   - icon: envelope
